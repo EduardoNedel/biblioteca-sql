@@ -20,8 +20,8 @@ Precisa do JDK instalado (Java 17 ou superior). Na pasta do projeto:
 
 ```bash
 mkdir out
-javac -encoding UTF-8 -d out src/*.java
-java -cp out Main
+javac -encoding UTF-8 *.java
+java Main
 ```
 
 ## Como rodar o SQL
