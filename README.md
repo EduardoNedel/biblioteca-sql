@@ -1,6 +1,6 @@
 # Sistema de Biblioteca (Java + SQL)
 
-Atividade do curso Full Stack: lista de tarefas de Java (orientação a objetos) e banco de dados.
+Atividade do curso Full Stack: lista de tarefas de Java e banco de dados.
 
 ## O que tem aqui
 
@@ -16,7 +16,7 @@ Atividade do curso Full Stack: lista de tarefas de Java (orientação a objetos)
 
 ## Como rodar o Java
 
-Precisa do JDK instalado (testado com Java 17 ou superior). Na pasta do projeto:
+Precisa do JDK instalado (Java 17 ou superior). Na pasta do projeto:
 
 ```bash
 mkdir out
